@@ -3,3 +3,4 @@ This project contains the sample examples for Automating Infrastructure from Dev
 
 # Deployment Architechture of Infrastructure
 
+![Optional Text](../master/image/tf-packer.png)
